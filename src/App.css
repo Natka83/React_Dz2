@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.img{
+  height:260px;
+  width:390px;
+  text-align: center;
+  float:left;
+  margin: 5px;
+}
+.forImg{
+  text-align: center;
+  margin: 30px;
+  background-color: aliceblue; 
+}
+.color{
+  padding: 10px;
+  background-color:aliceblue;
+  color:rgb(47, 124, 240);
+}
+.text{
+  margin: 30px;
+  font-style: oblique;
+  font-size: medium;  
+}
